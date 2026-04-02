@@ -13,6 +13,11 @@ export const programs = [
     degree: 'Undergraduate',
     title: 'B.Tech — Information Technology',
     description: 'A comprehensive 4-year program covering data structures, algorithms, databases, networks, OS, software engineering, and emerging tech tracks like AI/ML and cloud computing.',
+    branches: [
+      'Information Technology',
+      'VFX and Animation',
+      'AI and Data Science'
+    ],
     duration: '4 Years', semesters: '8 Semesters',
     admission: 'JEE Main',
     seats: '60 Seats'

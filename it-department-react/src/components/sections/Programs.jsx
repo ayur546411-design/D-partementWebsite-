@@ -20,6 +20,16 @@ const Programs = () => {
                 <div className="prog-degree">{prog.degree}</div>
                 <h3>{prog.title}</h3>
                 <p>{prog.description}</p>
+                {prog.branches && (
+                  <div className="prog-branches">
+                    <h4>Branches Offered:</h4>
+                    <ul>
+                      {prog.branches.map((branch, idx) => (
+                        <li key={idx}>{idx + 1}) {branch}</li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
               </div>
               <div className="prog-card-bottom">
                 <div className="prog-meta">⏱ <strong>{prog.duration}</strong> {prog.semesters && `· ${prog.semesters}`}</div>
