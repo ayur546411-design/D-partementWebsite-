@@ -9,7 +9,7 @@
 ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   
 ```
 
-# 🏛️ D'partement Website
+# 🏛️ Departement Website
 
 **A modern, responsive departmental web portal built for seamless navigation and real-time updates.**
 
