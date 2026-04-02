@@ -36,7 +36,7 @@
 │   D'partement ✦    Home  About  Faculty  Notices│
 │  ─────────────────────────────────────────────  │
 │                                                 │
-│   DEPARTMENT OF COMPUTER SCIENCE                │
+│   DEPARTMENT OF Information Technology              │
 │                                                 │
 │   Welcome to the                                │
 │   Future of Learning ✨                         │
