@@ -9,7 +9,8 @@ const Hero = () => {
     '/slider1.jpg',
     '/slider2.jpg',
     '/slider3.jpg',
-    '/slider4.jpg',
+    '/tech.jpg',
+    '/Tech2.jpg',
   ];
 
   // Auto-play the slider
